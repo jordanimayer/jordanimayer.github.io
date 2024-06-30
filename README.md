@@ -13,7 +13,7 @@ So, **the goal of this fork is to update the site content and add a more mobile-
 ### TODO List
 
 - [ ] Refactor & reformat
-  - [ ] Create folder structure
+  - [x] Create folder structure
   - [ ] Apply formatting (VSCode, a.k.a. JS Beautify)
 - [ ] Content updates
   - [ ] Update links (no more 404s)
