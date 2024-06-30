@@ -11,13 +11,15 @@
 body {
     background: #373737;
     color: #E5E5E5;
-    font: 90% 'Lucida Grande','Lucida Sans Unicode',Verdana,Tahoma,Arial,sans-serif;
+    font: 90% 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Tahoma, Arial, sans-serif;
     line-height: 1.2em;
     margin: 0 auto;
     padding: 0;
 }
 
-label { margin-left: 5px; }
+label {
+    margin-left: 5px;
+}
 
 a {
     color: #FAE89D;
@@ -54,17 +56,18 @@ li {
 }
 
 blockquote {
-    border-left:8px solid #CCCCCC;
+    border-left: 8px solid #CCCCCC;
     background: #474747;
     font-size: 1em;
     margin: 20px 10px;
-    padding:10px;
-    padding-left:20px;
+    padding: 10px;
+    padding-left: 20px;
 }
+
 blockquote blockquote {
     border: 0;
-    padding-right:20px;
-    text-align:right;
+    padding-right: 20px;
+    text-align: right;
     font-style: italic;
 }
 
@@ -73,9 +76,9 @@ pre {
     background: #191919;
     border: dashed 1px #e5e5e5;
     padding: 5px;
-    font-size:1em;
+    font-size: 1em;
     line-height: 1.4em;
-    clear:both;
+    clear: both;
 }
 
 h1 {
@@ -95,13 +98,13 @@ h3 {
 
 #everything {
     color: #F4F4F4;
-    margin:10px auto;
-    padding:0;
-    width:1000px;
+    margin: 10px auto;
+    padding: 0;
+    width: 1000px;
 }
 
 #header {
-    margin:0;
+    margin: 0;
     max-width: 1000em;
     font-weight: bold;
     font-size: 3em;
@@ -110,37 +113,39 @@ h3 {
 }
 
 #header a {
-    float:right;
+    float: right;
     font-family: Monofur, Monaco, Courier;
     color: #888888;
 }
 
 #navigation {
-    font-size:0.8em;
+    font-size: 0.8em;
     padding-top: 80px;
-    text-align:right;
+    text-align: right;
 }
 
-#navigation li { list-style: none; }
+#navigation li {
+    list-style: none;
+}
 
 #content {
-    float:left;
-    line-height:1.5em;
-    margin:0;
-    padding:0;
-    text-align:left;
-    width:750px;
+    float: left;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 750px;
 }
 
 #footer {
-    border-top:4px solid #dadada;
-    clear:both;
+    border-top: 4px solid #dadada;
+    clear: both;
     color: #808080;
-    font-size:0.9em;
-    line-height:1.6em;
-    margin:0 auto;
-    padding:8px 0;
-    text-align:right;
+    font-size: 0.9em;
+    line-height: 1.6em;
+    margin: 0 auto;
+    padding: 8px 0;
+    text-align: right;
 }
 
 #footer a {
@@ -152,8 +157,8 @@ h3 {
 .post {
     padding: 0;
     padding-top: 30px;
-    font-size:0.9em;
-    font-family: 'Lucida Grande','Lucida Sans','Lucida Sans Unicode',Helvetica,Tahoma;
+    font-size: 0.9em;
+    font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Unicode', Helvetica, Tahoma;
 }
 
 .post-link {
@@ -161,12 +166,12 @@ h3 {
 }
 
 .post-date {
-    margin-top:-8px;
-    margin-bottom:0px;
-    text-align:right;
-    font-size:0.8em;
-    width:490px;
-    color:#709E49;
+    margin-top: -8px;
+    margin-bottom: 0px;
+    text-align: right;
+    font-size: 0.8em;
+    width: 490px;
+    color: #709E49;
 }
 
 /*** Misc utility classes ***/
