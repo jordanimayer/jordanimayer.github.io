@@ -12,9 +12,9 @@ So, **the goal of this fork is to update the site content and add a more mobile-
 
 ### TODO List
 
-- [ ] Refactor & reformat
+- [x] Refactor & reformat
   - [x] Create folder structure
-  - [ ] Apply formatting (VSCode, a.k.a. JS Beautify)
+  - [x] Apply formatting (VSCode, a.k.a. JS Beautify)
 - [ ] Content updates
   - [ ] Update links (no more 404s)
   - [ ] Remove "phraktured.net" references (this URL no longer goes anywhere)
