@@ -16,9 +16,9 @@ So, **the goal of this fork is to update the site content and add a more mobile-
   - [x] Create folder structure
   - [x] Apply formatting (VSCode, a.k.a. JS Beautify)
 - [ ] Content updates
-  - [ ] Update links (no more 404s)
-  - [ ] Remove "phraktured.net" references (this URL no longer goes anywhere)
-  - [ ] Provide link to GitHub repo
+  - [x] Update links (no more 404s)
+  - [x] Remove "phraktured.net" references (this URL no longer goes anywhere)
+  - [x] Provide link to GitHub repo
 - [ ] Design and accessibility updates
   - [ ] Improve HTML semantics
   - [ ] Improve formatting for small viewports
